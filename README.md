@@ -9,6 +9,9 @@
 Responsive Web App
 
 ![alt text](https://github.com/juliotrujilloh/FoundationPage/blob/main/Project%20Images/IphoneView_sideways.jpg?raw=true)
+![alt text](https://github.com/juliotrujilloh/FoundationPage/blob/main/Project%20Images/foundation_Desktop.jpg?raw=true)
+![alt text](https://github.com/juliotrujilloh/FoundationPage/blob/main/Project%20Images/foundation_DonateOpen_iphoneView?raw=true)
+![alt text](https://github.com/juliotrujilloh/FoundationPage/blob/main/Project%20Images/foundation_Ipad_View?raw=true)
 
 ### Dependencies
 
