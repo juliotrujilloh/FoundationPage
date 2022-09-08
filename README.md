@@ -8,6 +8,8 @@
 
 Responsive Web App
 
+![alt text](https://github.com/juliotrujilloh/FoundationPage/blob/main/Project%20Images/IphoneView_sideways.jpg?raw=true)
+
 ### Dependencies
 
 * HTML
