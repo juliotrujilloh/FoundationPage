@@ -17,8 +17,8 @@ Julio
 
 ## Description
 
-This project was developed with the usage of React.js for the pages and it's components, the styling was made with React Styled components
-for reusable components implementation.
+The front-end of this project was developed with the usage of React.js for the pages and it's components, the styling was made with React Styled components
+for reusable components implementation. No back-end has been implemented on the Contact page or Donate Slide Window.
 
 For the 'Image Carousel' I used React's UseRef() and UseState() Hooks combined with DOM manipulation.
 
