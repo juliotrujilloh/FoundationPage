@@ -9,7 +9,7 @@ One of the main features of this Web App is the Donate-Slider-Window that is ava
 every page and can be accessed without redirecting the user to a different page. This gives
 the opportunity for the user to help with a donation while learning about the foundation's endeavors.
 
-Please, go ahead and take a look at web app: https://foundationpage.netlify.app/
+Please, go ahead and take a look at the web app: https://foundationpage.netlify.app/
 
 Happy coding!
 
